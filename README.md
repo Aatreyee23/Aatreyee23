@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aatreyee23&theme=darkhub" alt="aatreyee23" /></a> </p>
 
-- 🔭 I’m currently working on **Python, PHP, Java**
+- 🔭 I’m currently working on **C, C++, HTML, CSS, JavaScript, Python, PHP, MySQL, Java**
 
-- 🌱 I’m currently learning **DSA, Java**
+- 🌱 I’m currently learning **Python, PHP, DSA, Java**
 
 
 <h3 align="left">Languages and Tools:</h3>
