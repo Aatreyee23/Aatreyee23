@@ -1,6 +1,7 @@
 <h1 align="center">Namaste, I'm Aatreyee Joshi</h1>
 <h3 align="center">A passionate developer from Bharat</h3>
 
+<p align="left"> <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Aatreyee%20Joshi&reversal=false&textBg=false&fontColor=000000&animation=scaleIn&stroke=FFFFFF" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatreyee23&label=Profile%20views&color=0e75b6&style=flat" alt="aatreyee23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aatreyee23&theme=darkhub" alt="aatreyee23" /></a> </p>
