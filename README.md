@@ -17,5 +17,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatreyee23&" alt="aatreyee23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aatreyee23&show_icons=true&theme=radical&locale=en" alt="aatreyee23" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aatreyee23&show_icons=true&theme=tokyonight&locale=en" alt="aatreyee23" /></p>
 
