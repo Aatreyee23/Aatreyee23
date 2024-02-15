@@ -8,7 +8,7 @@
   
 - 🔭 I’m currently working on **C, C++, HTML, CSS, JavaScript, Python, PHP, MySQL, Java**
 
-- 🌱 I’m currently learning **Python, PHP, DSA, Java**
+- 🌱 I’m currently learning **Python, PHP, DSA, Java** 
 
 
 <h3 align="left">Languages and Tools:</h3>
