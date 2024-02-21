@@ -29,6 +29,6 @@
 
 <h3 align="left">Activity Graph :</h3>
 <hr></hr>
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Aatreyee23&theme=tokyo-night" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Aatreyee23&theme=tokyo-night&hide_border=true" /></p>
 
 
