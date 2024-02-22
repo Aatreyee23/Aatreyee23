@@ -1,20 +1,26 @@
 <p><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Aatreyee%20Joshi&reversal=false&textBg=false&fontColor=ffffff&fontSize=80&animation=fadeIn&stroke=000000" alt="Aatreyee Joshi"></p>
-<h1 align="center">Namaste, I'm Aatreyee Joshi</h1>   
+<h1 align="center">🙏 Namaste , I'm Aatreyee Joshi</h1>   
 <h3 align="center">A passionate developer from Bharat</h3>   
                            
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatreyee23&label=Profile%20views&color=0e75b6&style=flat" alt="aatreyee23" /> </p> 
- 
+<p align="left">🏆 Trophies : </p>
+<hr></hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aatreyee23&theme=darkhub&no-Frame=False&row=1&&margin-w=20&no-bg=True" alt="aatreyee23" /></a> </p> 
   
-- 🔭 I’m currently working on **C, C++, HTML, CSS, JavaScript, Python, PHP, MySQL, Java**
+<p align="left">🔭 Currently working on :</p>
+<hr></hr>
+**C, C++, HTML, CSS, JavaScript, Python, PHP, MySQL, Java**
 
-- 🌱 I’m currently learning **Python, PHP, DSA, Java** 
+  
+<p align="left">🌱 Currently learning :</p>
+<hr></hr>
+**Python, PHP, DSA, Java** 
 
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="left">🚀 Languages and Tools :</h3>
 <hr></hr>
 <p align="center"> 
-  <table border=3 border-color=darkblue>
+  <table border=3>
   <tr>
   <td>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -68,19 +74,19 @@
   </table>
 </p>
 
-<h3 align="left">Most Used Languages :</h3>
+<h3 align="left">📋 Most Used Languages :</h3>
 <hr></hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatreyee23&show_icons=true&locale=en&layout=normal&hide_border=true&theme=tokyonight" alt="aatreyee23" />
 
-<h3 align="left">Streak :</h3>
+<h3 align="left">🔥 Streak :</h3>
 <hr></hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatreyee23&hide_border=true&theme=tokyonight" alt="aatreyee23" /></p>
 
-<h3 align="left">Stats :</h3>
+<h3 align="left">📊 Stats :</h3>
 <hr></hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aatreyee23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=en" alt="aatreyee23" /></p>
 
-<h3 align="left">Activity Graph :</h3>
+<h3 align="left">📈 Activity Graph :</h3>
 <hr></hr>
 <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Aatreyee23&theme=tokyo-night&hide_border=true" /></p>
 
