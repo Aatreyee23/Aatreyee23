@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools :</h3>
 <hr></hr>
-<p align="left"> 
+<p align="center"> 
   <table>
   <tr>
   <td>
