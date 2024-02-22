@@ -1,6 +1,5 @@
 <p><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Aatreyee%20Joshi&reversal=false&textBg=false&fontColor=ffffff&fontSize=80&animation=fadeIn&stroke=000000" alt="Aatreyee Joshi"></p>
 <h1 align="center">Namaste, I'm Aatreyee Joshi</h1>   
-<hr></hr>
 <h3 align="center">A passionate developer from Bharat</h3>   
                            
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatreyee23&label=Profile%20views&color=0e75b6&style=flat" alt="aatreyee23" /> </p> 
