@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatreyee23&label=Profile%20views&color=0e75b6&style=flat" alt="aatreyee23" /> </p> 
 <p align="left">🏆 Trophies : </p>
 <hr></hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aatreyee23&theme=darkhub&no-Frame=False&row=1&&margin-w=20&no-bg=True" alt="aatreyee23" /></a> </p> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aatreyee23&theme=darkhub&no-Frame=False&row=1&&margin-w=20&no-bg=True" alt="aatreyee23" /></a> </p> <br>
+<img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="420px" height="420px" align="right">
   
 <p align="left">🔭 Working on :</p>
 <hr></hr>
-<img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="300px" height="300px" align="right">
 <b>
   <table>
     <tr>
