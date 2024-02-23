@@ -9,6 +9,9 @@
   
 <p align="left">🔭 Working on :</p>
 <hr></hr>
+<p align="right">
+  ![](https://github.com/Aatreyee23/Aatreyee%20Joshi.gif)
+</p> 
 <p><b>
   <ul>
     <li>C</li>
