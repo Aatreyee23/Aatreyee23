@@ -18,10 +18,13 @@
       <td>HTML</td>
       <td>CSS</td>
       <td>JavaScript</td>
+    </tr>
+    <tr>
       <td>Python</td>
       <td>PHP</td>
       <td>MySQL</td>
       <td>Java</td>
+      <td>DSA</td>
     </tr>
   </table>
 </p>
