@@ -10,7 +10,7 @@
 <p align="left">🔭 Working on :</p>
 <hr></hr>
 
-  ![](https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif)
+  <img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="100px" height="100px" align="right">
 
 <p><b>
   <ul>
