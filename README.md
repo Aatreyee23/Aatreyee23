@@ -9,33 +9,35 @@
   
 <p align="left">🔭 Working on :</p>
 <hr></hr>
-
-  <img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="300px" height="300px" align="right">
-
-<p><b>
-  <ul>
-    <li>C</li>
-    <li>C++</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Python</li>
-    <li>PHP</li>
-    <li>MySQL</li>
-    <li>Java</li>
-  </ul>
-</b></p>
+<img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="300px" height="300px" align="right">
+<b>
+  <table>
+    <tr>
+      <td>C</td>
+      <td>C++</td>
+      <td>HTML</td>
+      <td>CSS</td>
+      <td>JavaScript</td>
+      <td>Python</td>
+      <td>PHP</td>
+      <td>MySQL</td>
+      <td>Java</td>
+    </tr>
+  </table>
+</p>
 <br><br>
   
 <p align="left">🌱 Learning :</p>
 <hr></hr>
 <p><b>
-  <ul>
-    <li>Python</li>
-    <li>PHP</li>
-    <li>Java</li>
-    <li>DSA</li>
-  </ul>
+ <table>
+   <tr>
+     <td>Python</td>
+     <td>PHP</td>
+     <td>Java</td>
+     <td>DSA</td>
+   </tr>
+ </table>
 </b></p> 
 <br><br>
 
