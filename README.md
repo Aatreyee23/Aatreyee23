@@ -7,14 +7,33 @@
 <hr></hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aatreyee23&theme=darkhub&no-Frame=False&row=1&&margin-w=20&no-bg=True" alt="aatreyee23" /></a> </p> 
   
-<p align="left">🔭 Currently working on :</p>
+<p align="left">🔭 Working on :</p>
 <hr></hr>
-<p>**C, C++, HTML, CSS, JavaScript, Python, PHP, MySQL, Java**</p>
+<p><b>
+  <ul>
+    <li>C</li>
+    <li>C++</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Python</li>
+    <li>PHP</li>
+    <li>MySQL</li>
+    <li>Java</li>
+  </ul>
+</b></p>
 <br><br>
   
-<p align="left">🌱 Currently learning :</p>
+<p align="left">🌱 Learning :</p>
 <hr></hr>
-<p>**Python, PHP, DSA, Java**</p> 
+<p><b>
+  <ul>
+    <li>Python</li>
+    <li>PHP</li>
+    <li>Java</li>
+    <li>DSA</li>
+  </ul>
+</b></p> 
 <br><br>
 
 <h3 align="left">🚀 Languages and Tools :</h3>
