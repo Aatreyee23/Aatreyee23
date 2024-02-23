@@ -10,7 +10,7 @@
 <p align="left">🔭 Working on :</p>
 <hr></hr>
 
-  <img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="500px" height="500px" align="right">
+  <img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="300px" height="300px" align="right">
 
 <p><b>
   <ul>
