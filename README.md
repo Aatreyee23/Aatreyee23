@@ -1,4 +1,4 @@
-<p><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Aatreyee%20Joshi&reversal=false&textBg=false&fontColor=ffffff&fontSize=80&animation=fadeIn&stroke=000000" alt="Aatreyee Joshi"></p>
+<p><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Aatreyee%20Joshi&reversal=false&textBg=false&fontColor=ffffff&fontSize=80&animation=fadeIn&stroke=000000" alt="Aatreyee Joshi"></p> 
 <h1 align="center">Namaste , I'm Aatreyee Joshi</h1>   
 <h3 align="center">A passionate developer from Bharat</h3>   
                            
