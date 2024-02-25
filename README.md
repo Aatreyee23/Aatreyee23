@@ -19,11 +19,11 @@
 <br>
 
 <img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="420px" height="420px" align="right">
-  
+
 <p align="left">🔭 Working on :</p>
 <hr></hr>
-
-<b> 
+<p align="center">
+  <b> 
   <table>
     <tr>
       <td>C</td>
@@ -41,11 +41,13 @@
     </tr>
   </table>
 </b>
+</p>
 <br><br>
   
 <p align="left">🌱 Learning :</p>
 <hr></hr>
-<p><b>
+<p align="center">
+<b>
  <table>
    <tr>
      <td>Python</td>
@@ -54,13 +56,15 @@
      <td>DSA</td>
    </tr>
  </table>
-</b></p> 
+</b>
+</p> 
+
 <br><br>
 
 <h3 align="left">🚀 Languages and Tools :</h3>
 <hr></hr>
 <p align="center"> 
-  <table border=3>
+  <table border=3 >
   <tr>
   <td>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
