@@ -14,11 +14,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=aatreyee23&theme=darkhub&no-Frame=False&row=1&&margin-w=20&no-bg=True" alt="aatreyee23" /></a> 
-</p> <br>
+</p> 
+
+<br>
+
 <img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="420px" height="420px" align="right">
   
 <p align="left">🔭 Working on :</p>
 <hr></hr>
+
 <b> 
   <table>
     <tr>
@@ -36,7 +40,7 @@
       <td>DSA</td>
     </tr>
   </table>
-</p>
+</b>
 <br><br>
   
 <p align="left">🌱 Learning :</p>
