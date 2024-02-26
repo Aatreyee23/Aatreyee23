@@ -133,7 +133,9 @@
 
 <h3 align="left">📊 Stats :</h3>
 <hr></hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aatreyee23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=en" alt="aatreyee23" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aatreyee23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=en" alt="aatreyee23" />
+</p>
 
 <h3 align="left">📈 Activity Graph :</h3>
 <hr></hr>
