@@ -127,7 +127,9 @@
 
 <h3 align="left">🔥 Streak :</h3>
 <hr></hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatreyee23&hide_border=true&theme=tokyonight" alt="aatreyee23" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatreyee23&hide_border=true&theme=tokyonight" alt="aatreyee23" />
+</p>
 
 <h3 align="left">📊 Stats :</h3>
 <hr></hr>
