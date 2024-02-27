@@ -44,7 +44,7 @@
 </p>
 <br><br>
   
-<p align="left">🌱 Learning :</p>
+<h3 align="left">🌱 Learning :</h3>
 <hr></hr>
 <p align="center">
 <b>
