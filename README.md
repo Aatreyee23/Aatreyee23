@@ -146,8 +146,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aatreyee23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=aatreyee23&theme=tokyonight)](https://github.com/LordDashMe/github-contribution-stats/)
+![](https://github-contributor-stats.vercel.app/api?username=aatreyee23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)   [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=aatreyee23&theme=tokyonight)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
