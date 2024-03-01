@@ -131,7 +131,7 @@
 <h3 align="left">🔥 Streak and 📊 Stats:</h3>
 <hr></hr>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatreyee23&hide_border=true&theme=tokyonight" alt="aatreyee23" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatreyee23&hide_border=true&theme=tokyonight&width=200px" alt="aatreyee23" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aatreyee23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=en" alt="aatreyee23" />
 </p>
 
