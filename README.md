@@ -140,7 +140,7 @@
 
 <p>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Aatreyee23&theme=tokyo-night&hide_border=true" />
-</p>
+</p> 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
