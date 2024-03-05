@@ -7,7 +7,7 @@
                              
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aatreyee23&label=Profile%20views&color=0e75b6&style=flat" alt="aatreyee23" /> 
-</p> 
+</p>  
 
 <h3 align="left">🏆 Trophies : </h3>
 <hr></hr>
