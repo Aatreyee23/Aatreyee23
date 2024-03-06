@@ -128,7 +128,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatreyee23&show_icons=true&locale=en&layout=normal&hide_border=true&theme=tokyonight" alt="aatreyee23" />
 </p>
 
-<h3 align="left">🔥 Streak and 📊 Stats:</h3>
+<h3 align="left">🔥 Streak & 📊 Stats:</h3>
 <hr></hr>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatreyee23&hide_border=true&theme=tokyonight&card_width=400" alt="aatreyee23" />
@@ -141,6 +141,12 @@
 <p>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Aatreyee23&theme=tokyo-night&hide_border=true" />
 </p> 
+
+### 📌 Pinned Repositories
+
+![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=cityscape_challenge_game&show_owner=true&theme=tokyonight) 
+![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=word_search&show_owner=true&theme=tokyonight)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
