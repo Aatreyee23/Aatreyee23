@@ -144,7 +144,8 @@
 
 ### 📌 Pinned Repositories
 
-![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=cityscape_challenge_game&show_owner=true&theme=tokyonight)][](https://github.com/Aatreyee23/Cityscape_Challenge_Game)
+[![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=cityscape_challenge_game&show_owner=true&theme=tokyonight)](https://github.com/Aatreyee23/Cityscape_Challenge_Game)
+
 ![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=word_search&show_owner=true&theme=tokyonight)()
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
