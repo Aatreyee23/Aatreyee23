@@ -148,8 +148,6 @@
 
 ![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=word_search&show_owner=true&theme=tokyonight)()
 
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
