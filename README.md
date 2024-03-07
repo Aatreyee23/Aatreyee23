@@ -146,7 +146,7 @@
 
 [![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=cityscape_challenge_game&show_owner=true&theme=tokyonight)](https://github.com/Aatreyee23/Cityscape_Challenge_Game)
 
-![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=word_search&show_owner=true&theme=tokyonight)()
+[![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=word_search&show_owner=true&theme=tokyonight)](https://github.com/Aatreyee23/Word_Search)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
