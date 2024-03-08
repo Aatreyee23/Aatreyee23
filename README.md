@@ -15,12 +15,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=aatreyee23&theme=darkhub&no-Frame=False&row=1&&margin-w=20&no-bg=True" alt="aatreyee23" /></a> 
 </p> 
-
-<br>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <br>
 
 <img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="420px" height="420px" align="right">
@@ -151,6 +145,12 @@
 
 [![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=cityscape_challenge_game&show_owner=true&theme=tokyonight)](https://github.com/Aatreyee23/Cityscape_Challenge_Game)
 [![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=word_search&show_owner=true&theme=tokyonight)](https://github.com/Aatreyee23/Word_Search)
+
+
+<br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ### 🔝 Top Contributed Repo
