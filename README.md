@@ -26,7 +26,7 @@
   <table>
     <tr>
       <td>C</td>
-      <td>C++</td>
+      <td>C++</td> 
       <td>HTML</td>
       <td>CSS</td>
       <td>JavaScript</td>
