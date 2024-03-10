@@ -4,7 +4,7 @@
      
 <h1 align="center">Namaste , I'm Aatreyee Joshi</h1>   
 <h3 align="center">A passionate developer from Bharat</h3>   
-                             
+                              
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aatreyee23&label=Profile%20views&color=0e75b6&style=flat" alt="aatreyee23" /> 
 </p>  
