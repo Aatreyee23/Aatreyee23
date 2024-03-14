@@ -9,6 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=aatreyee23&label=Profile%20views&color=0e75b6&style=flat" alt="aatreyee23" /> 
 </p>  
 
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aatreyeejoshi.my.canva.site/portfolio)
+
 <h3 align="left">🏆 Trophies : </h3>
 <hr></hr>
 
@@ -19,9 +21,6 @@
 
 <img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="420px" height="420px" align="right">
 
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aatreyeejoshi.my.canva.site/portfolio)
-
-<a href="https://aatreyeejoshi.my.canva.site/portfolio">Portfolio</a>
 <h3 align="left">🔭 Working on :</h3>
 <hr></hr>
 <p align="center">
