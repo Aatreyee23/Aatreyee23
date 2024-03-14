@@ -18,6 +18,9 @@
 <br>
 
 <img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="420px" height="420px" align="right">
+
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aatreyeejoshi.my.canva.site/portfolio)
+
 <a href="https://aatreyeejoshi.my.canva.site/portfolio">Portfolio</a>
 <h3 align="left">🔭 Working on :</h3>
 <hr></hr>
