@@ -1,4 +1,4 @@
-<p>
+<p> 
   <img src="Aatreyee-header.png" alt="Aatreyee Joshi"> 
 </p>   
       
