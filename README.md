@@ -12,7 +12,7 @@
 
 </p>
 <h3 align="left">🏆 Trophies : </h3>
-<hr></hr>
+<hr></hr> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=aatreyee23&theme=darkhub&no-Frame=False&row=1&&margin-w=20&no-bg=True" alt="aatreyee23" /></a> 
