@@ -62,7 +62,7 @@
 
 <br><br>
 
-<h3 align="left">🚀 Languages and Tech Tools :</h3>
+<h3 align="left">🚀 Languages & Tech Tools :</h3>
 <hr></hr>
 
 <p align="center"> 
