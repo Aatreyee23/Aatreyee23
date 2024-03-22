@@ -2,7 +2,7 @@
    <img src="Aatreyee-header.png" alt="Aatreyee Joshi"> 
 </p>   
        
-<h1 align="center">Namaste , I'm Aatreyee Joshi</h1>     
+<h1 align="center">Namaste , I'm Aatreyee Joshi</h1>      
 <h3 align="center">A passionate developer from Bharat</h3>   
                               
 <p align="left"> 
