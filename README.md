@@ -6,7 +6,7 @@
 <h3 align="center">A passionate developer from Bharat</h3>     
                               
 <p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=aatreyee23&label=Profile%20views&color=0e75b6&style=flat" alt="aatreyee23" /> 
+  <img src="https://komarev.com/ghpvc/?username=aatreyee23&label=Profile%20views&color=0e75b6&style=flat" alt="aatreyee23" />  
 
   [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aatreyeejoshi.my.canva.site/portfolio)
  
