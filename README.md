@@ -25,7 +25,7 @@
 <hr></hr>
 <p align="center">
   <b> 
-  <table>
+  <table> 
     <tr>
       <td>C</td>
       <td>C++</td> 
