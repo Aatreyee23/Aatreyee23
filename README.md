@@ -10,7 +10,7 @@
 
   [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aatreyeejoshi.my.canva.site/portfolio)
  
-</p>
+</p> 
 <h3 align="left">🏆 Trophies : </h3>
 <hr></hr>  
 
