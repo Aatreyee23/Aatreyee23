@@ -140,7 +140,7 @@
 <hr></hr>
 
 <p> 
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Aatreyee23&theme=tokyo-night&hide_border=true" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Aatreyee23&theme=tokyo-night" />
 </p> 
 
 ### 📌 Pinned Repositories
