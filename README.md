@@ -1,7 +1,7 @@
 <p> 
    <img src="header.png" alt="Aatreyee Joshi"> 
 </p>    
-       
+        
 <h1 align="center">Hi, I'm Aatreyee Joshi</h1>      
 <h3 align="center">A passionate developer from Bharat</h3>     
                                
