@@ -21,7 +21,7 @@
 
 <img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="420px" height="420px" align="right">
  
-<h3 align="left">🔭 Working on :</h3>
+<h3 align="left">🔭 Working on:</h3>
 <hr></hr>
 <p align="center">
   <b> 
