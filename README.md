@@ -136,7 +136,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aatreyee23&show_icons=true&theme=tokyonight&rank_icon=github&locale=en&card_width=400" alt="aatreyee23" />
 </p>
 
-<h3 align="left">📈 Contribution Graph </h3>
+<h3 align="left">📈 Contribution Graph</h3>
 <hr></hr> 
 
 <p> 
