@@ -11,7 +11,7 @@
   [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aatreyeejoshi.my.canva.site/portfolio)
  
 </p> 
-<h3 align="left">🏆 Trophies: </h3>
+<h3 align="left">🏆 Trophies </h3>
 <hr></hr>  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
