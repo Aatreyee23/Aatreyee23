@@ -22,7 +22,7 @@
 <img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="420px" height="420px" align="right">
  
 <h3 align="left">🔭 Working on</h3>
-<hr></hr>
+<hr>
 <p align="center">
   <b> 
   <table> 
@@ -43,10 +43,10 @@
   </table>
 </b>
 </p>
-<br><br> 
+<br>
   
 <h3 align="left">🌱 Learning</h3>
-<hr></hr>
+<hr>
 <p align="center">
 <b> 
  <table>
@@ -60,10 +60,10 @@
 </b>
 </p> 
  
-<br><br>
+<br>
  
 <h3 align="left">🚀 Languages & Tech Tools</h3>
-<hr></hr>
+<hr>
 
 <p align="center"> 
   <table border=3 >
