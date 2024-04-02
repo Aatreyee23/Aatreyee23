@@ -9,11 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=aatreyee23&label=Profile%20views&color=0e75b6&style=flat" alt="aatreyee23" />  
 
   [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aatreyeejoshi.my.canva.site/portfolio)
-   
 </p> 
+
 <h3 align="left">🏆 Trophies </h3>
 <hr>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=aatreyee23&theme=darkhub&no-Frame=False&row=1&&margin-w=20&no-bg=True" alt="aatreyee23" /></a> 
 </p> 
@@ -45,7 +44,6 @@
  
 <h3 align="left">🚀 Languages & Tech Tools</h3>
 <hr>
-
 <p align="center"> 
   <table >
     <tr>
@@ -103,7 +101,6 @@
   </table>
 </p> 
 
-
 <h3 align="left">🔥 Streak & 📊 Stats</h3>
 <hr></hr>
 <p>
@@ -113,6 +110,10 @@
 
 ### 📋 Most used Languages
 <hr></hr>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatreyee23&show_icons=true&locale=en&layout=normal&theme=tokyonight" alt="aatreyee23" />
+</p>
+
 <!--
 <p align="left">
 
@@ -122,27 +123,20 @@
 </p>
 -->
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatreyee23&show_icons=true&locale=en&layout=normal&theme=tokyonight" alt="aatreyee23" />
-</p>
-
 <h3 align="left">📈 Contribution Graph</h3>
 <hr></hr> 
-
 <p> 
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Aatreyee23&theme=tokyo-night" />
 </p> 
 
 ### 📌 Pinned Repositories
-
 [![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=cityscape_challenge_game&show_owner=true&theme=tokyonight)](https://github.com/Aatreyee23/Cityscape_Challenge_Game)
 [![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=word_search&show_owner=true&theme=tokyonight)](https://github.com/Aatreyee23/Word_Search)
-
-<be>
+<br>
 
 ### ✍️ Random Dev Quote
-
-   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=100)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=100)
+<br>
 
 
 ### 🔝 Top Contributed Repo
