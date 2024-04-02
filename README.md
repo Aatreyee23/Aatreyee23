@@ -12,12 +12,11 @@
    
 </p> 
 <h3 align="left">🏆 Trophies </h3>
-<hr></hr>  
+<hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=aatreyee23&theme=darkhub&no-Frame=False&row=1&&margin-w=20&no-bg=True" alt="aatreyee23" /></a> 
 </p> 
-<br>
 
 <img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="420px" height="420px" align="right">
  
@@ -43,30 +42,12 @@
   </table>
 </b>
 </p>
-<br>
-  
-<h3 align="left">🌱 Learning</h3>
-<hr>
-<p align="center">
-<b> 
- <table>
-   <tr>
-     <td>Python</td>
-     <td>PHP</td>
-     <td>Java</td>
-     <td>DSA</td>
-   </tr>
- </table>
-</b>
-</p> 
- 
-<br>
  
 <h3 align="left">🚀 Languages & Tech Tools</h3>
 <hr>
 
 <p align="center"> 
-  <table border=3 >
+  <table >
     <tr>
       <td>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -92,6 +73,8 @@
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
         <p style="color:white">Figma</p>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
         <p style="color:white">Git</p>
@@ -120,20 +103,27 @@
   </table>
 </p> 
 
-### 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<h3 align="left">📋 Most Used Languages</h3>
-<hr></hr>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatreyee23&show_icons=true&locale=en&layout=normal&theme=tokyonight" alt="aatreyee23" />
-</p>
- 
 <h3 align="left">🔥 Streak & 📊 Stats</h3>
 <hr></hr>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatreyee23&theme=tokyonight&card_width=400" alt="aatreyee23" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aatreyee23&show_icons=true&theme=tokyonight&rank_icon=github&locale=en&card_width=400" alt="aatreyee23" />
+</p>
+
+### 📋 Most used Languages
+<hr></hr>
+<!--
+<p align="left">
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)    
+ ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</p>
+-->
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatreyee23&show_icons=true&locale=en&layout=normal&theme=tokyonight" alt="aatreyee23" />
 </p>
 
 <h3 align="left">📈 Contribution Graph</h3>
@@ -148,10 +138,11 @@
 [![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=cityscape_challenge_game&show_owner=true&theme=tokyonight)](https://github.com/Aatreyee23/Cityscape_Challenge_Game)
 [![Readme Card2](https://github-readme-stats.vercel.app/api/pin/?username=aatreyee23&repo=word_search&show_owner=true&theme=tokyonight)](https://github.com/Aatreyee23/Word_Search)
 
-<br>
+<be>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=100)
 
 
 ### 🔝 Top Contributed Repo
