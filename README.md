@@ -17,7 +17,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aatreyee23&theme=darkhub&no-Frame=False&row=1&&margin-w=20&no-bg=True" alt="aatreyee23" /></a> 
 </p> 
 
-<img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="400px" height="400px" align="right">
+<img src="https://github.com/Aatreyee23/Aatreyee23/blob/main/Aatreyee%20Joshi.gif" width="390px" height="390px" align="right">
  
 <h3 align="left">🔭 Working on</h3>
 <hr>
