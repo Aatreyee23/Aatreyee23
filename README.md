@@ -8,7 +8,7 @@
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=aatreyee23&label=Profile%20views&color=0e75b6&style=flat" alt="aatreyee23" />  
 
-  [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aatreyeejoshi.my.canva.site/portfolio)
+  [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aatreyee-joshi-portfolio.netlify.app/)
 </p> 
 
 <h3 align="left">🏆 Trophies </h3>
