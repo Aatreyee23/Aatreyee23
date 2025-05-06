@@ -8,7 +8,7 @@
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=aatreyee23&label=Profile%20views&color=0e75b6&style=flat" alt="aatreyee23" />  
 
-  [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-1-ashen-phi.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aatreyee-joshi-portfolio.vercel.app/)
 </p> 
 
 <h3 align="left">🏆 Trophies </h3>
@@ -37,6 +37,13 @@
       <td>MySQL</td>
       <td>Java</td>
       <td>DSA</td>
+    </tr>
+    <tr>
+      <td>Mongo DB</td>
+      <td>Express.js</td>
+      <td>React</td>
+      <td>Node.js</td>
+      <td>Next.js</td>
     </tr>
   </table>
 </b>
@@ -98,6 +105,39 @@
         <p style="color:white">Python</p>
       </td>
       </tr>
+     <tr>
+  <td>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <p style="color:white">MongoDB</p>
+  </td>
+  <td>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
+    </a>
+    <p style="color:white">Express.js</p>
+  </td>
+  <td>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+    </a>
+    <p style="color:white">React</p>
+  </td>
+  <td>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <p style="color:white">Node.js</p>
+  </td>
+  <td>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+    </a>
+    <p style="color:white">Next.js</p>
+  </td>
+</tr>
+
   </table>
 </p> 
 
